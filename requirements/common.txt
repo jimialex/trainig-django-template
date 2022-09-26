@@ -60,6 +60,7 @@ django-imagekit==4.0.2  # https://github.com/matthewwithanm/
 #
 django-picklefield==3.0.1  # https://github.com/gintas/
 django-constance==2.8.0  # https://github.com/jazzband/
+django-admin-sso==5.0.0  # https://github.com/matthiask/django-admin-sso/find/master
 
 
 #

@@ -27,8 +27,7 @@ try:
         port="${POSTGRES_PORT}",
     )
 except psycopg2.OperationalError:
-    print(error)
-    #sys.exit(-1)
+    sys.exit(-1)
 sys.exit(0)
 
 END
